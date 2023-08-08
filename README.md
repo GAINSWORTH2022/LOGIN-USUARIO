@@ -1,2 +1,2 @@
 # LOGIN-USUARIO
- Praticando aprendizado em CSS.
+ Praticando aprendizado em HTML e CSS.
